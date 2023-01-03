@@ -1,4 +1,4 @@
-﻿
+﻿/*
 List<int> prime = new List<int>() { };
 List<int> notPrime = new List<int>() { };
 List<int> arr = new List<int>() { };
@@ -62,6 +62,8 @@ foreach (var item in prime)
     primeTotal += item;
 }
 
+Console.WriteLine("");
+
 Console.WriteLine("Asal olmayan sayılar : ");
 foreach (var item in notPrime)
 {
@@ -73,3 +75,4 @@ foreach (var item in notPrime)
 Console.WriteLine("");
 Console.WriteLine($"Asal olan {prime.Count} adet sayi vardir. Ortalamaları {primeTotal/prime.Count} 'dur");
 Console.WriteLine($"Asal olmayna olan {notPrime.Count} adet sayi vardir. Ortalamaları {notPrimeTotal/notPrime.Count} 'dur");
+*/

@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace HomeWorksW2
+{
+    class Program
+    {
+        static public void Main (String[] args) {
+
+    } 
+    }
+   
+}
