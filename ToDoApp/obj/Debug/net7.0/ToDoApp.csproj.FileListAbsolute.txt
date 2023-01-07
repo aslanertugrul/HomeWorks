@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\bin\Debug\net7.0\ToDoApp.exe
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\bin\Debug\net7.0\ToDoApp.deps.json
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\bin\Debug\net7.0\ToDoApp.runtimeconfig.json
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\bin\Debug\net7.0\ToDoApp.dll
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\bin\Debug\net7.0\ToDoApp.pdb
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.dll
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\refint\ToDoApp.dll
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.pdb
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ToDoApp.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\HomeWorksW2\ToDoApp\obj\Debug\net7.0\ref\ToDoApp.dll
